@@ -1,4 +1,4 @@
-package com.example.sarthakmishra.chatbox;
+package com.sarm.publicforum;
 import java.util.Date;
 
 public class ChatMessage{
